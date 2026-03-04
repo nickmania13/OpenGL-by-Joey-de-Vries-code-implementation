@@ -37,7 +37,7 @@ int main()
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
 	// Create a window object
-	GLFWwindow* window = glfwCreateWindow(800, 600, "LearnOpenGL", NULL, NULL);
+	GLFWwindow* window = glfwCreateWindow(800, 600, " I MADE A TRIANGLE . I MEAN IT IS SOMETHING... ", NULL, NULL);
 	if (window == NULL)
 	{
 		std::cout << "Failed to create GLFW window" << std::endl;
@@ -280,3 +280,4 @@ void APIENTRY glDebugOutput(GLenum source,
 	} std::cout << std::endl;
 	std::cout << std::endl;
 }
+
