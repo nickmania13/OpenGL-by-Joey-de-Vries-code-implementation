@@ -1,5 +1,8 @@
 The code in this repository is the result of following and implementing the examples from the book mentioned in the project title, as part of my effort to begin understanding graphics programming with OpenGL.
 
+<img width="797" height="633" alt="image" src="https://github.com/user-attachments/assets/8e789e38-1a37-4410-99c3-40959fec6f90" />
+
+
 • I include comments quite often throughout the code so that future me can easily recall the purpose and logic of each part, and so that anyone viewing the repository can also follow and understand what the code is doing.
 
 • The code will be updated frequently, since I am actively reading the book while implementing each example.
